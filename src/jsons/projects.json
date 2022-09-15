@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Sethh Forums",
+        "status": "Under Development",
+        "description": "Sethh Forums is basically a forum made by me using xenforo i didn't decide a name and a topic on it yet so it stays 'Sethh Forums' without a topic for now.",
+        "color": "#faa81b"
+    },
+    {
+        "id": 2,
+        "title": "Skidware Discord Bot",
+        "status": "Under Development",
+        "description": "SkidWare bot is a discord bot being developed by sethh, the purpose of is antinuke and multifunctionality the bot itself has around 100 commands, I'm thinking of a web dashboard cus why not?",
+        "color": "#faa81b"
+    },
+    {
+        "id": 3,
+        "title": "https://sethh.xyz",
+        "status": "Finished, Still Being Worked on.",
+        "description": "Not too much to question, i think? It's just this site, i made with vue and tailwindcss, It has some functionalities. I didn't made it responsive. I don't know why maybe i'm too lazy maybe..",
+        "color": "#1bfa7c"
+    }
+]
