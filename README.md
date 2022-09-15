@@ -1,7 +1,16 @@
-# Vue 3 + Vite
+## Todo
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+- Make an api
+- Finish Unfinished pages
+- Make animations
 
-## Recommended IDE Setup
+##  Technologies i used.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+- vuejs
+- tailwindcss
+- html
+- discord api
+
+if you want any support talk to me in 
+[discord](https://lookup.guru/1013115062023630898)
+[telegram](https://t.me/cxrruptedsoul)
